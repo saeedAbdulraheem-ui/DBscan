@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDBSCAN_LIB.a 
+/usr/bin/ranlib libDBSCAN_LIB.a
