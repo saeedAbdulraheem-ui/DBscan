@@ -1,4 +1,0 @@
-/home/imagry/Desktop/dbscan/CMakeFiles/DBSCAN_LIB.dir
-/home/imagry/Desktop/dbscan/CMakeFiles/DBSCAN.dir
-/home/imagry/Desktop/dbscan/CMakeFiles/edit_cache.dir
-/home/imagry/Desktop/dbscan/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-file(REMOVE_RECURSE
-  "libDBSCAN_LIB.a"
-)
